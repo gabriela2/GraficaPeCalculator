@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1582483024 source:c:\users\spinu\desktop\grafica\laborator1-grafica-rgb\main.cpp
+	<windows.h>
+	<gl/freeglut.h>
+
+1426342528 c:\users\spinu\desktop\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426342528 c:\users\spinu\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426342528 c:\users\spinu\desktop\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1582695260 source:c:\users\spinu\desktop\grafica\laborator1-grafica-rgb - copie\main.cpp
+	<windows.h>
+	<gl/freeglut.h>
+
+1426342528 c:\users\spinu\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1583129881 source:c:\users\spinu\desktop\grafica\laborator1-grafica-rgb -full\main.cpp
+	<windows.h>
+	<gl/freeglut.h>
+
