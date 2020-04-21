@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1587503271 source:c:\users\spinu\desktop\grafica\tema6\main.cpp
+	<gl/freeglut.h>
+	<math.h>
+
+1426346128 c:\users\spinu\desktop\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426346128 c:\users\spinu\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426346128 c:\users\spinu\desktop\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
